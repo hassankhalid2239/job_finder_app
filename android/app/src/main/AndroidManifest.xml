@@ -2,7 +2,7 @@
 
 
     <application
-        android:label="job_finder_app"
+        android:label="Jobbook"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
