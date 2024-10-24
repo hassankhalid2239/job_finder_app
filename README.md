@@ -57,7 +57,7 @@ If you want to contribute, please follow these steps:
 5. Create a new Pull Request.
 
 ## License
-This project is available under the License. Please see the `Everyone` file for more details.
+This project is available under the License.
 
 ## Contact
 If you have any questions or issues, feel free to contact:
